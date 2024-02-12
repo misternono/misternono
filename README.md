@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah-Gabriel Winkler</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Germany</h3>
 
 <p align="left"> <a href="https://twitter.com/noahgw1" target="blank"><img src="https://img.shields.io/twitter/follow/noahgw1?logo=twitter&style=for-the-badge" alt="noahgw1" /></a> </p>
 
