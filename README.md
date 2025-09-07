@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Noah-Gabriel Winkler
 
-> **Passionate Fullstack Developer from Spain** 🇪🇸
+> **Passionate Fullstack Developer from Germany**
 
 [![X Follow](https://img.shields.io/twitter/follow/noahgw1?logo=x&style=for-the-badge&label=Follow%20on%20X)](https://x.com/noahgw1)
 
